@@ -1,0 +1,8 @@
+# Compiled executable
+college
+
+# Object files
+*.o
+
+# macOS files
+.DS_Store
